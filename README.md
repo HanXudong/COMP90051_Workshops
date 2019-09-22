@@ -1,5 +1,11 @@
 # COMP90051_Workshops
 
+## Week 9 timetable
+Due to the public holiday, I will take the following 3 tutes:
+1. Monday 16:15  PAR-207-221 Bouverie St-B116
+2. Wednesday  20:15	PAR-207-221 Bouverie St-B117
+3. Thursday	20:15	PAR-207-221 Bouverie St-B117
+
 ## L2 Nrom /  Shrinkage Methods
 
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
