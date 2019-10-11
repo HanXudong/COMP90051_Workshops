@@ -1,6 +1,6 @@
 # COMP90051_Workshops
 
-## Weel 10
+## Week 10
 
 1. Week 10 notebook has been updated with more explanations
 2. There are some mistakes in question 3, let's revirew it next week. Sorry!!!
