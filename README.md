@@ -1,5 +1,10 @@
 # COMP90051_Workshops
 
+## Weel 10
+
+1. Week 10 notebook has been updated with more explanations
+2. There are some mistakes in question 3, let's revirew it next week. Sorry!!!
+
 ## Week 9 timetable
 Due to the public holiday, I will take the following 3 tutes:
 1. Monday 16:15  PAR-207-221 Bouverie St-B116
