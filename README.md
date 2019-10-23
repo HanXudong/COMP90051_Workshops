@@ -1,5 +1,8 @@
 # COMP90051_Workshops
 
+## Quality of Tutor/Demonstrator Survey
+https://apps.eng.unimelb.edu.au/casmas/index.php?r=qoct/subjects
+
 ## Week 10
 
 1. Week 10 notebook has been updated with more explanations
